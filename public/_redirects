@@ -9,4 +9,14 @@
 /to/* /.netlify/functions/to/:splat 301
 
 # i18n
+# 默认语言重定向 - 中文
 /*  /zh-CN/:splat  301
+
+# 浏览器语言检测（按需启用）
+# 中文用户 -> 中文版本
+# /*  /zh-CN/:splat  302  Language=zh
+
+# 英文用户 -> 英文版本（如果有的话）
+# /*  /en/:splat  302  Language=en
+
+# 默认回退到中文（已在上面的规则中实现）
