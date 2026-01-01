@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/数值分析/1.1.4 最佳逼近.md",
+                "file": "zh-CN/视图/未添加标签的页面.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1.4 最佳逼近"
+              "title": "未添加标签的页面"
             }
           }
         ]
@@ -183,25 +183,53 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "326ddd39f08f36b2",
+  "active": "1a2c8804e1117c87",
   "lastOpenFiles": [
-    "笔记/数值分析/3.1.2 范数与赋范线性空间.md",
-    "笔记/数值分析/1.1.4 最佳逼近.md",
-    "笔记/index.md",
-    "笔记/演示目录1/文档-带评论.md",
-    "笔记/演示目录1/文档-不带评论.md",
-    "笔记/✍️ 文档工程/API 文档系统.md",
-    "笔记/✍️ 文档工程/图表即代码（CaC）图表绘制.md",
-    "🔌 知识库插件列表.md",
-    "vite.config.ts.timestamp-1767185405668-287ce6b459c9d.mjs",
-    "vite.config.ts.timestamp-1767185394100-9f38d45beb30e.mjs",
-    "node_modules/@netlify",
-    "node_modules/@iconify-json",
-    "node_modules/@antfu",
-    "node_modules",
-    "_tmp_23356_d59404110f956f214f668924c39a81b1",
-    "public/android-chrome-192x192.png",
-    "视图/尚未编写完成的页面.md",
-    "视图/未添加标签的页面.md"
+    "AGENTS.md",
+    "zh-CN/笔记/🎛️ 操作系统/🪟 Windows/assets/hyper-v-ubuntu-lag-and-resolutions-fixes-screenshot04.png",
+    "zh-CN/笔记/🎛️ 操作系统/🪟 Windows/assets/hyper-v-ubuntu-lag-and-resolutions-fixes-screenshot03.png",
+    "zh-CN/笔记/🎛️ 操作系统/🪟 Windows/assets/hyper-v-ubuntu-lag-and-resolutions-fixes-screenshot02.png",
+    "zh-CN/笔记/🎛️ 操作系统/🪟 Windows/assets/hyper-v-ubuntu-lag-and-resolutions-fixes-screenshot01.png",
+    "zh-CN/笔记/🎛️ 操作系统/🪟 Windows/assets/20220504222411.png",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian/assets/resize-disk-partition-for-debian-12-screenshot-1.png",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian/assets/image_20220215140515.png",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian/assets/image_20220215140355.png",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian/assets/enter-debian-12-rescue-mode-with-hyper-v-screenshot-9.png",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian/assets/enter-debian-12-rescue-mode-with-hyper-v-screenshot-8.png",
+    "zh-CN/笔记/🎛️ 操作系统/🪟 Windows/调试 MSI - 输出 MSI 安装器的输出为日志.md",
+    "zh-CN/笔记/🎛️ 操作系统/🪟 Windows/在部署 Windows Admin Center 的 HTTPS 证书的时候遭遇无法保留端口 443 错误.md",
+    "zh-CN/笔记/🎛️ 操作系统/🪟 Windows/修复 NVidia Shield (Moonlight) 选择了错误的显示器.md",
+    "zh-CN/笔记/🎛️ 操作系统/🪟 Windows/为在 Hyper-V 上运行的 Ubuntu 18.04 虚拟机修复卡顿、提高刷新率和提供可变分辨率.md",
+    "zh-CN/笔记/🎛️ 操作系统/🪟 Windows/Hyper-V 激活嵌套虚拟化.md",
+    "zh-CN/笔记/🎛️ 操作系统/🪟 Windows/assets",
+    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/查看 Linux 的内核版本和发型版本名称.md",
+    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/修复语言问题.md",
+    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux/Linux 中的 XDG_CONFIG_HOME.md",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian/通过 Hyper-V 进入 Debian 12 LiveCD 自带的 Rescue Mode（急救模式）.md",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian/激活 Debian 上安装的 Nginx 的 Stream 模块来支持转发 TCP 和 UDP 请求.md",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian/修复语言错误.md",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian/从 Debian 11 升级到 Debian 12.md",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian/为 Debian 使用的硬盘进行扩容操作.md",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian/assets",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian/apt upgrade 执行更新到一半发生了 SSH 断连但是没有 tmux 和 screen 帮助创建守护 tty，但是报错了无法获得 lock-frontend 锁的时候怎么办？.md",
+    "zh-CN/笔记/🎛️ 操作系统/🍎 macOS/音频坏了？可以试试看重启系统组件 coreaudiod.md",
+    "zh-CN/笔记/🎛️ 操作系统/🍎 macOS/如何卸载 macOS 虚拟声卡.md",
+    "zh-CN/笔记/🎛️ 操作系统/🍎 macOS/修复在 macOS 上因为默认 pnpm 在 PATH 中权重过高导致 corepack 失效的问题.md",
+    "zh-CN/笔记/🎛️ 操作系统/🍎 macOS/修复 macOS 反复弹出提示 com.leagsoft.epp.gui.filemonitor.systemextension 将对你的电脑造成伤害的错误.md",
+    "zh-CN/笔记/🎛️ 操作系统/🍎 macOS/修复 Finder（访达）在变更默认打开程序之后图标依然维持原样的异常问题.md",
+    "zh-CN/笔记/🎛️ 操作系统/🍎 macOS/assets",
+    "zh-CN/笔记/🎛️ 操作系统/⛑️ RedHat Enterprise Linux/yum dnf 包管理器.md",
+    "zh-CN/笔记/🎛️ 操作系统/⛑️ RedHat Enterprise Linux/SELinux 安全 Linux.md",
+    "zh-CN/笔记/🎛️ 操作系统/🪟 Windows",
+    "zh-CN/笔记/🎛️ 操作系统/🐧 Linux",
+    "zh-CN/笔记/🎛️ 操作系统/🍥 Debian",
+    "zh-CN/笔记/🎛️ 操作系统/🍎 macOS",
+    "zh-CN/笔记/🎛️ 操作系统/⛑️ RedHat Enterprise Linux",
+    "zh-CN/笔记/🎛️ 操作系统",
+    "zh-CN/笔记/🎓 学习/辅助专注力提升的音频 App.md",
+    "zh-CN/笔记/🎓 学习",
+    "zh-CN/笔记/✍️ 文档工程/图表即代码（CaC）图表绘制.md",
+    "zh-CN/笔记/✍️ 文档工程/API 文档系统.md",
+    "zh-CN/笔记/☀️ 生活/📅 事务/更新 HSBC HK 的中国内地联络地址.md"
   ]
 }
