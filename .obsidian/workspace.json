@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/笔记/🎓 学习/数值分析/3.2.3 切比雪夫多项式.md",
+                "file": "zh-CN/笔记/🎓 学习/数值分析/切比雪夫推导.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2.3 切比雪夫多项式"
+              "title": "切比雪夫推导"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "326ddd39f08f36b2",
   "lastOpenFiles": [
-    "zh-CN/笔记/🎓 学习/数值分析/切比雪夫推导.md",
     "zh-CN/笔记/🎓 学习/数值分析/3.2.3 切比雪夫多项式.md",
+    "zh-CN/笔记/🎓 学习/数值分析/切比雪夫推导.md",
     "zh-CN/视图/未添加标签的页面.md",
     "zh-CN/视图/尚未编写完成的页面.md",
     "zh-CN/笔记/🎓 学习/辅助专注力提升的音频 App.md",
