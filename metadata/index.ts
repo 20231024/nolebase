@@ -47,6 +47,18 @@ export const creators: Creator[] = [
     nameAliases: ['LittleSound', '绚香音', '絢香音', 'Rizumu Oikawa', 'Rizumu Ayaka', 'Ayaka Rizumu', 'Rizumu'],
     emailAliases: ['rizumu@ayaka.moe', 'rizumu@oqo.moe'],
   },
+  {
+    name: '星轨邮差',
+    avatar: '',
+    username: '20231024',
+    title: '探索者',
+    desc: '一个正在探索的探索者，正在寻找自己的未来',
+    links: [
+      { type: 'github', icon: 'github', link: 'https://github.com/20231024' },
+      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/20231024' },
+    ],
+    nameAliases: []
+  }
 ].map<Creator>((c) => {
   c.avatar = c.avatar || getAvatarUrlByGithubName(c.username)
   return c as Creator
